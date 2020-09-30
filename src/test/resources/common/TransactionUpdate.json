@@ -1,0 +1,26 @@
+{
+  "id": "string",
+  "orderId": "string",
+  "creditCard": {
+    "cardNumber": "1111111111111111",
+    "cardBrand": "AMEX",
+    "cvv": "string",
+    "expiryDate": "string",
+    "cardHolder": "string",
+    "cardBin": "string"
+  },
+  "acquirerId": 9,
+  "acquirerRrn": "string",
+  "acquirerStan": "string",
+  "transactionType": "CRED",
+  "transactionStatus": "OK",
+  "amount": 0,
+  "currency": "string",
+  "authorizationCode": "string",
+  "acquirerResponseCode": 0,
+  "acquirerResponseDetail": "string",
+  "merchantId": "string",
+  "terminalId": 0,
+  "canVoid": true,
+  "errorCode": "string"
+}

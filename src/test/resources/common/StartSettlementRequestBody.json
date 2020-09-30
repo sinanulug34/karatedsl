@@ -1,0 +1,11 @@
+{
+  "acquirerId": 9,
+  "merchantId": "1053",
+  "merchantBatchIndex": 0,
+  "terminalId": 0,
+  "terminalBatchIndex": 0,
+  "merchantBatchStatus": "IN_PROGRESS",
+  "terminalBatchStatus": "FINISHED",
+  "openVPosCount": 0,
+  "errorDetail": "string"
+}

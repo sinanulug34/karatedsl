@@ -1,0 +1,14 @@
+{
+  "orderId":"string",
+  "transactionId":"string",
+  "transactionType":"SALE",
+  "cardNumber":"string",
+  "cvv":"string",
+  "expiryDate":"string",
+  "cardHolder":"string",
+  "merchantId":8113,
+  "amount":"string",
+  "currency":"string",
+  "userName":"torus",
+  "password":"torus"
+}

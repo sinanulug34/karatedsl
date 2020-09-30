@@ -1,0 +1,24 @@
+{
+  "orderId": "string",
+  "creditCard": {
+    "cardNumber": "4242424242424242",
+    "cardBrand": "AMEX",
+    "cvv": "000",
+    "expiryDate": "12/2020",
+    "cardHolder": "Torus",
+    "cardBin": "string"
+  },
+  "acquirerId": 9,
+  "acquirerRrn": "string",
+  "acquirerStan": "string",
+  "transactionType": "CRED",
+  "merchantId": "59089",
+  "terminalId": 1009,
+  "acquirerTerminalId": "00112201",
+  "acquirerMerchantId": "00112201",
+  "stan": 0,
+  "terminalBatchIndex": 0,
+  "amount": 100,
+  "currency": "EUR",
+  "transactionId": "string"
+}

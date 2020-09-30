@@ -1,0 +1,14 @@
+[{
+    "transactionId": "string",
+    "acquirerId": 9,
+    "acquirerTerminalId": "string",
+    "acquirerMerchantId": "string",
+    "stan": "string",
+    "terminalBatchIndex": 0,
+    "saleTotal": 10,
+    "saleCount": 5,
+    "refundTotal": 2,
+    "refundCount": 4,
+    "currency": "EUR"
+  }
+]

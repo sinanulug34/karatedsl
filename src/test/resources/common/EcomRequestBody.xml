@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayRequest>
+  <Ecom_Merchant_User_Name>basaradmin</Ecom_Merchant_User_Name>
+  <Ecom_Merchant_User_Password>TEST8185</Ecom_Merchant_User_Password>
+  <Ecom_Merchant_ID>100555789</Ecom_Merchant_ID>
+  <Ecom_ConsumerOrderID>#(Ecom_ConsumerOrderID)</Ecom_ConsumerOrderID>
+  <Ecom_Transaction_Type>#(Type)</Ecom_Transaction_Type>
+  <Ecom_Payment_Card_Number>#(Number)</Ecom_Payment_Card_Number>
+  <Ecom_Payment_Card_ExpDate_Month>#(ExpireMonth)</Ecom_Payment_Card_ExpDate_Month>
+  <Ecom_Payment_Card_ExpDate_Year>#(ExpireYear)</Ecom_Payment_Card_ExpDate_Year>
+  <Ecom_Payment_Card_Verification>#(Cvv2Val)</Ecom_Payment_Card_Verification>
+  <Ecom_Payment_Amount>#(Total)</Ecom_Payment_Amount>
+  <Ecom_Payment_CurrencyCode>#(Currency)</Ecom_Payment_CurrencyCode>
+  <Ecom_ExtraFields></Ecom_ExtraFields>
+</PayRequest>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CC5Request>
+  <Name>torus</Name>
+  <Password>torus</Password>
+  <ClientId>8113</ClientId>
+  <OrderId>#(OrderId)</OrderId>
+  <Type>#(Type)</Type>
+  <Number>#(Number)</Number>
+  <Expires>#(Expires)</Expires>
+  <Cvv2Val>#(Cvv2Val)</Cvv2Val>
+  <Total>#(Total)</Total>
+  <Currency>#(Currency)</Currency>
+  <Extra>#(Extra)</Extra>
+</CC5Request>

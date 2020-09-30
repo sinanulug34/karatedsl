@@ -1,0 +1,61 @@
+{
+  "acquirerId": 9,
+  "address": {
+    "city": "string",
+    "country": "string",
+    "fax": "string",
+    "phoneNumber": "string",
+    "postalAddressFirst": "string",
+    "postalAddressSecond": "string",
+    "postalAddressThird": "string",
+    "postalCode": "string",
+    "state": "string"
+  },
+  "businessStartDate": "2020-05-13",
+  "cardBrands": [
+    "AMEX"
+  ],
+  "contact": {
+    "email": "user@example.com",
+    "name": "string",
+    "technicalResponsibleFirst": {
+      "email": "user@example.com",
+      "merchantName": "string",
+      "nameSurname": "string",
+      "phoneNumber": "string"
+    },
+    "technicalResponsibleSecond": {
+      "email": "user@example.com",
+      "merchantName": "string",
+      "nameSurname": "string",
+      "phoneNumber": "string"
+    }
+  },
+  "criteriaFirst": "string",
+  "criteriaSecond": "string",
+  "extraInfo": "string",
+  "hostId": 0,
+  "ipAddress": "198.51.100.42",
+  "merchantBatchIndex": 0,
+  "merchantCategoryCode": 1,
+  "merchantGroupId": 1,
+  "merchantType": "STANDARD",
+  "name": "string",
+  "paymentFacilitator": {
+    "facilitatorNumber": "00187212",
+    "saleOrganizationNumber": "00187212"
+  },
+  "paymentIntegrationType": "THREED",
+  "posEntryMode": "MAIL_ORDER",
+  "preAuthMaxDayCount": 0,
+  "refundMaxDayCount": 0,
+  "reportTimeLimit": "string",
+  "specialLabelId": 0,
+  "storeId": "string",
+  "subMerchant": {
+    "subMerchantNumber": "00187212",
+    "vposTerminalId": "00187212"
+  },
+  "taxNumber": "string",
+  "webAddress": "string"
+}

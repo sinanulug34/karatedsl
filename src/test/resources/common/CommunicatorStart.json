@@ -1,0 +1,23 @@
+{
+  "orderId": "string",
+  "creditCard": {
+    "cardNumber": "4242424242424242",
+    "cardBrand": "AMEX",
+    "cvv": "000",
+    "expiryDate": "string",
+    "cardHolder": "string",
+    "cardBin": "string"
+  },
+  "acquirerId": 9,
+  "transactionType": "SALE",
+  "merchantId": "1053",
+  "terminalId": 1009,
+  "acquirerTerminalId": "string",
+  "acquirerMerchantId": "string",
+  "stan": 0,
+  "terminalBatchIndex": 0,
+  "amount": 100,
+  "currency": "EUR",
+  "transactionId": "1122",
+  "authorizationNumber": "string"
+}

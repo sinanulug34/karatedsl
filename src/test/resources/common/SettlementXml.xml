@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<CC5Request>
+  <Name>torus</Name>
+  <Password>torus</Password>
+  <ClientId>41008</ClientId>
+  <Extra>
+    <Settle>Settle</Settle>
+  </Extra>
+</CC5Request>

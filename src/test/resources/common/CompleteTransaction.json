@@ -1,0 +1,14 @@
+{
+  "transactionStatus": "OK",
+  "transactionType": "CRED",
+  "authorizationCode": "string",
+  "transactionId": "string",
+  "orderId": "string",
+  "merchantId": "59089",
+  "acquirerResponseCode": "00",
+  "acquirerResponseDetail": "SUCCESS",
+  "acquirerId": 9,
+  "acquirerStan": "string",
+  "acquirerRrn": "string",
+  "errorCode": "string"
+}

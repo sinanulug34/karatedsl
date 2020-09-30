@@ -1,0 +1,20 @@
+{
+  "orderNumber": "888",
+  "creditCard": {
+    "cardNumber": "5454545454545454",
+    "cardBrand": "AMEX",
+    "cvv": "000",
+    "expiryDate": "2001",
+    "cardHolder": "yxTcHEi"
+  },
+  "acquirer": {
+    "acquirerName": "ANADOLUBANK",
+    "acquirerId": "9"
+  },
+  "transactionType": "PRE_AUTH",
+  "merchantId": "1053",
+  "transactionAmount": {
+    "value": 146,
+    "currency": "EUR"
+  }
+}

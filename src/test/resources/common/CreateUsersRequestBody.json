@@ -1,0 +1,15 @@
+{
+  "username": "torus",
+  "merchantId": "string",
+  "roleId": 3569,
+  "acquirerId": 9,
+  "groupId": "string",
+  "password": "torus",
+  "email": "string",
+  "phoneCountryCode": "string",
+  "mobileNumber": "string",
+  "description": "string",
+  "type": "string",
+  "country": "string",
+  "status": "ACTIVE"
+}
